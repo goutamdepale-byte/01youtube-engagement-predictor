@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+joblib
+plotly
+scipy
+pymongo
+google-api-python-client
+python-dotenv
+numpy
